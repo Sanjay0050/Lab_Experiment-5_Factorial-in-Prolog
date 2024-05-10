@@ -1,6 +1,6 @@
 # Lab_Experiment-5_Factorial-in-Prolog
 
-### DATE:10-0-2024                                                                   
+### DATE:10-05-2024                                                                   
 ### REGISTER NUMBER : 212221220047
 ### AIM: 
 To  write  a logic program for finding the factorial of given number using SWI-PROLOG. 
